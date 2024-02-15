@@ -1,18 +1,18 @@
 <div>
 
-# Resume
-### Francky Iside
+# Francky Iside
 
-Gdańsk, Trójmiasto Poland\
+Available in Trójmiasto or remotely\
 576 076 788\
 <contact@francky.works>\
-<https://github.com/franckyi>
+<https://github.com/franckyi>\
+<https://francky.works>
 
 </div>
 
-# Ecommerce & Web Application
+## About
 
-_Proactive freelancer developer crafting web applications and e-commerce websites for Polish businesses. Focused on the React ecosystem. Business goal oriented with problem-solving and continuous–learning attitude. My strengths are adaptability, creativity and the desire to deliver perfect work._
+_Proactive freelance developer crafting web applications and e-commerce websites for Polish businesses. Focused on the React ecosystem. Business goal oriented with problem-solving and continuous–learning attitude. My strengths are adaptability, creativity and the desire to deliver perfect work._
 
 ## Skills
 
@@ -30,9 +30,10 @@ _Proactive freelancer developer crafting web applications and e-commerce website
 - **Spoken Languages**  
   Italian (native), English (fluent), Polish (fluent)
 
-## Work Experience
+## Experience
 
 _September 2016 - Present_ : **Freelance Web developer**
+[Portfolio website](https://francky.works/)
 
 _October 2021 - February 2024_ : **Frontend developer**
 [iGamingNuts](https://igamingnuts.com/)
