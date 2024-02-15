@@ -41,7 +41,7 @@ _October 2021 - February 2024_ : **Frontend developer**
 _August 2019 - October 2021_ : **Graphic designer**
 [Trec Nutrition](https://www.trec.pl/)
 
-_October 2018 - June 2029_ : **Graphic designer**
+_October 2018 - June 2019_ : **Graphic designer**
 [Rebel Artistry](https://rebelartistry.com/)
 
 ## Education
