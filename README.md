@@ -1,10 +1,11 @@
 <div>
 
+# Resume
 ### Francky Iside
 
-Gdańsk, Trójmiasto Poland
-576 076 788
-<contact@francky.works>
+Gdańsk, Trójmiasto Poland\
+576 076 788\
+<contact@francky.works>\
 <https://github.com/franckyi>
 
 </div>
@@ -23,8 +24,8 @@ _Proactive freelancer developer crafting web applications and e-commerce website
   - **Familiar with**
     Redux, Node.js, GraphQL, Express, Angular, jQuery
 
-- **Other**
-  Headless CMS (Strapi, WordPress), PHP, Agile, Git, GitHub, Vercel, Core Web Vitals, SEO
+  - **Other**
+    Headless CMS (Strapi, WordPress), PHP, Agile, Git, GitHub, Vercel, Core Web Vitals, SEO
 
 - **Spoken Languages**  
   Italian (native), English (fluent), Polish (fluent)
@@ -35,12 +36,6 @@ _September 2016 - Present_ : **Freelance Web developer**
 
 _October 2021 - February 2024_ : **Frontend developer**
 [iGamingNuts](https://igamingnuts.com/)
-
-<div>
-
-> Creation of new visual components and back-office features.
-
-</div>
 
 _August 2019 - October 2021_ : **Graphic designer**
 [Trec Nutrition](https://www.trec.pl/)
